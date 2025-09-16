@@ -16,6 +16,7 @@ The goal is to predict median house prices based on features like crime rate, nu
 1. Clone the repository
 
 git clone https://github.com/Vaishnawi-Sharma/ML_Algorithms.git
+
 cd ML_Algorithms/Linear_Regression
 
 2.Create the environment:
