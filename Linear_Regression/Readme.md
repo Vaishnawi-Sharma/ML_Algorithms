@@ -44,6 +44,8 @@ The notebook uses the following packages (all versions pinned in `environment.ym
 - pandas 1.3.5
 - numpy 1.21.6
 - scipy 1.7.3
+- matplotlib 3.5.1
+- seaborn 0.13.2
 
 ---
 ## Note
@@ -51,6 +53,3 @@ The notebook uses the following packages (all versions pinned in `environment.ym
 - The Boston Housing dataset has been deprecated in newer versions of scikit-learn.
 - This notebook works with scikit-learn 1.1.3 to ensure reproducibility.
 
-matplotlib 3.5.1
-
-seaborn 0.13.2
