@@ -24,7 +24,7 @@ conda env create -f environment.yml
 
 3.Activate the environment:
 ```bash
-conda activate py39
+conda activate <your-environment-name>
 
 4.Launch Jupyter Notebook:
 ```bash
