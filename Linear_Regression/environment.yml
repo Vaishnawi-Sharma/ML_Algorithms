@@ -1,0 +1,18 @@
+name: py39
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+prefix: C:\Users\bhard\miniconda3\envs\py39
+
+name: py39
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - scikit-learn=1.1.3
+  - pandas=1.3.5
+  - numpy=1.21.6
+  - scipy=1.7.3
+  - matplotlib=3.5.1
+  - seaborn=0.13.2 
