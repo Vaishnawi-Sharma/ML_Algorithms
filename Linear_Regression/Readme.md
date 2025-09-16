@@ -13,21 +13,21 @@ The goal is to predict median house prices based on features like crime rate, nu
 
 ## Setup Instructions
 
-1. Clone the repository:
-```bash
+1. Clone the repository
+
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
 2.Create the environment:
-```bash
+
 conda env create -f environment.yml
 
 3.Activate the environment:
-```bash
+
 conda activate <your-environment-name>
 
 4.Launch Jupyter Notebook:
-```bash
+
 jupyter notebook
 
 
