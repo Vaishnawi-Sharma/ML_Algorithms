@@ -6,7 +6,7 @@ The goal is to predict median house prices based on features like crime rate, nu
 ---
 
 ## Files
-- `linear_regression_boston.ipynb` → Jupyter Notebook with the implementation  
+- `Linear_Regression.ipynb` → Jupyter Notebook with the implementation  
 - `environment.yml` → Conda environment file with required dependencies  
 
 ---
@@ -31,7 +31,7 @@ conda activate <your-environment-name>
 jupyter notebook
 
 
-Then open linear_regression_boston.ipynb to run the code.
+Then open Linear_Regression.ipynb to run the code.
 
 ---
 
